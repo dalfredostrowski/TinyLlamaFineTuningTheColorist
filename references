@@ -1,0 +1,19 @@
+references
+https://mychen76.medium.com/tinyllama-colorist-fine-tuned-with-color-dataset-8cd1cf7e5665
+https://huggingface.co/datasets/burkelibbey/colors
+https://stackoverflow.com/questions/78830067/how-to-correct-a-google-colab-pip-installation-error
+
+
+
+https://www.youtube.com/watch?v=OVqe6GTrDFM
+
+
+### due to error in excecuation of model,
+### i referenced the following : 
+####https://discuss.huggingface.co/t/importerror-in-bitsandbytes-with-accelerate/80060
+
+
+https://huggingface.co/docs/hub/en/datasets-downloading
+
+
+https://discuss.huggingface.co/t/downloading-a-dataset-files-locally/28309/3
